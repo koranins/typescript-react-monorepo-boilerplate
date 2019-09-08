@@ -1,0 +1,1 @@
+module.exports = 'component 1!'
